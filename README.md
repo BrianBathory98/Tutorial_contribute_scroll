@@ -61,3 +61,9 @@ silahkan save screen anda dengan ctrl a + d karena contribute membutuhkan waktu 
 ketika nanti sudah selesai makan akan auto generate file json, nah setelah itu simpan baik baik file tersebut
 
 ..
+
+cara balik ke screen 
+```
+screen -Rd contribute
+```
+
