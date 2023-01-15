@@ -39,4 +39,4 @@ chmod +x kzgcli
 
 # Contribute
 buka https://github.com/jsign/go-kzg-ceremony-client lalu klik link seperti dibawah
-blob:https://web.whatsapp.com/dfe7f4b0-9eba-4ab8-8066-2f524d3534e7
+(https://web.whatsapp.com/dfe7f4b0-9eba-4ab8-8066-2f524d3534e7)
