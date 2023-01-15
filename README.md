@@ -38,12 +38,12 @@ chmod +x kzgcli
 ```
 
 # Contribute
-Buka https://github.com/jsign/go-kzg-ceremony-client lalu klik link seperti dibawah
+Buka https://github.com/jsign/go-kzg-ceremony-client lalu klik link seperti dibawah :
 
 ![image](https://user-images.githubusercontent.com/41656124/212543362-6dc3db17-6c97-4fee-abf9-e9b9e58c12fe.png)
 
 Akan ada 2 plihan, tergantung anda mau tandatangan dengan github atau metamask.
-copy link nya buka di website baru dan ikuti langkah verifikasi nya,
+copy link nya buka di website baru dan ikuti langkah verifikasi nya, maka akan menghasilkan session id :
 
 ![image](https://user-images.githubusercontent.com/41656124/212543700-93fe1d90-2572-4ec7-8e0d-13f92125e751.png)
 
