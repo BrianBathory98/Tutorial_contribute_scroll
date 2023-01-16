@@ -63,7 +63,7 @@ Berikut contoh kalau sudah selesai
 
 ![image](https://user-images.githubusercontent.com/41656124/212679955-a11c09d3-5915-4564-b183-2a8ab7231438.png)
 
-simpan baik baik isi dari kedua json tersebut.
+simpan baik baik isi dari contribute_receipt.json tersebut.
 
 ..
 
