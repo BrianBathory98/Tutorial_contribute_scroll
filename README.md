@@ -59,10 +59,15 @@ kzgcli contribute --session-id <paste-your-session-id>
 ```
 silahkan save screen anda dengan ctrl a + d karena contribute membutuhkan waktu yang lama, 
 ketika nanti sudah selesai makan akan auto generate file json, nah setelah itu simpan baik baik file tersebut
+Berikut contoh kalau sudah selesai 
+
+![image](https://user-images.githubusercontent.com/41656124/212679955-a11c09d3-5915-4564-b183-2a8ab7231438.png)
+
+simpan baik baik isi dari kedua json tersebut.
 
 ..
 
-cara balik ke screen 
+cara balik ke screen untuk cek apakah sudah selesai atau belum, jika belum ya tinggal ctrl a+d aja..
 ```
 screen -Rd contribute
 ```
